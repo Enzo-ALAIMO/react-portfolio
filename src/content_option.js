@@ -5,6 +5,7 @@ import interfast from "./assets/images/interfast.png";
 import inveskal from "./assets/images/inveskal.png";
 import lgl from "./assets/images/lgl.png";
 import area from "./assets/images/area.png";
+import pp from "./assets/images/pp.jpg";
 
 const logotext = "ENZO";
 const meta = {
@@ -22,7 +23,7 @@ const introdata = {
   },
   description:
     "Bonjour, je m'appelle Enzo ALAIMO. Je suis un développeur Web Full Stack français et passionné actuellement en Angleterre.",
-  your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+  your_img_url: pp,
 };
 
 const dataabout = {
@@ -86,9 +87,9 @@ const skills = [
 
 const services = [
   {
-    title: "Landing Pages",
+    title: "Sites vitrine",
     description:
-      "Fort de mon expérience, je suis capable de créer des landing pages qui sauront convenir à vos besoins et qui mettrons en valeur vos projets.",
+      "Fort de mon expérience, je suis capable de créer des sites vitrine qui sauront convenir à vos besoins et qui mettrons en valeur vos projets.",
   },
   {
     title: "Applications Web",
