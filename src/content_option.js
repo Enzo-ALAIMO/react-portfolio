@@ -166,7 +166,7 @@ const contactConfig = {
 
 const socialprofils = {
   github: "https://github.com/Enzo-ALAIMO",
-  linkedin: "https://linkedin.com",
+  linkedin: "https://www.linkedin.com/in/enzo-alaimo-b45a622ba/",
 };
 export {
   meta,
